@@ -1,4 +1,4 @@
-# LS7 V8 · Four-Stroke, interactive
+# V8 · Four-Stroke, interactive
 
 A working 3D model of a 7.0 litre pushrod V8 that runs in the browser.
 
@@ -15,7 +15,7 @@ Written with Claude Code (Fable 5.2), which also opened the page in headless Chr
 
 ## What is real and what is simplified
 
-Real: LS7 bore (104.8 mm), stroke (101.6 mm), rod length, 90° bank angle, cross-plane crank with pins 90° apart, firing order 1-8-7-2-6-5-4-3, camshaft at half crank speed.
+Real: bore (104.8 mm), stroke (101.6 mm), rod length, 90° bank angle, cross-plane crank with pins 90° apart, firing order 1-8-7-2-6-5-4-3, camshaft at half crank speed.
 
 Simplified: chamber pressure follows an idealised cycle, valve timing has no overlap, ignition fires at top dead centre, and parts are not to exact scale. Don't use it to rebuild an engine.
 
