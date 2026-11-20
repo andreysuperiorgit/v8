@@ -7,10 +7,11 @@ A working 3D model of a 7.0 litre pushrod V8 that runs in the browser.
 - Rev it with the slider, the on-screen pedal, the `W` key, or the R2 trigger of a game controller (browser Gamepad API).
 - Glass, section and solid cutaways. Camera presets. Click a cylinder in the firing order to track it.
 - Live readouts: stroke, chamber pressure, valve timing, p-V diagram, slider-crank geometry.
+- Sound: two short loops cut from recordings of a real 7.0 litre V8 (idle and about 3500 rpm). Pitch and mix follow the rev counter.
 
 ## How it was built
 
-One HTML file. [three.js](https://threejs.org) from a CDN, no model files, no textures, no build step.
+One HTML file. [three.js](https://threejs.org) from a CDN, no model files, no textures, no build step. The two sound loops are embedded in the page.
 Written with Claude Code (Fable 5.2), which also opened the page in headless Chrome, took screenshots and fixed what looked wrong over several rounds.
 
 ## What is real and what is simplified
